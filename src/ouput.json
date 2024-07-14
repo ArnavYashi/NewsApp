@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 6464,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "The Daily Dot"
+    },
+    "author": "Kira Deshler",
+    "title": "Newsletter: Why are Chipotle orders full of bugs?",
+    "description": "<!-- /wp:separator -->\n\r\n\nThe internet is chaotic—but we’ll break it down for you in one daily email. Sign up for the Daily Dot’s web_crawlr newsletter here to get the best (and worst) of the internet straight into your inbox.\r\n\n\r\n\n\r\n\n\r\n\n\n\nHello fellow web cr…",
+    "url": "https://www.dailydot.com/news/daily-dot-newsletter-web-crawlr-6-17-2024/",
+    "urlToImage": "https://uploads.dailydot.com/2024/06/web_crawlr-image-2024-06-17.png?auto=compress&fit=scale&fm=png&h=400&w=800",
+    "publishedAt": "2024-06-17T15:30:00Z",
+    "content": "The internet is chaoticbut well break it down for you in one daily email. Sign up for the Daily Dots web_crawlr newsletter here to get the best (and worst) of the internet straight into your inbox.\r\n… [+2800 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Business Standard"
+    },
+    "author": "Reuters",
+    "title": "Warren Buffett's Berkshire Hathaway trims its stake in China's BYD",
+    "description": "Berkshire recently sold 1.3 million Hong Kong-listed BYD shares for HK$310.5 million ($39.8 million)",
+    "url": "https://www.business-standard.com/world-news/warren-buffetts-berkshire-hathaway-trims-its-stake-in-chinas-byd-124061700817_1.html",
+    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-01/10/thumb/featurecrop/400X400/1515595468-66.jpg",
+    "publishedAt": "2024-06-17T15:13:20Z",
+    "content": "Berkshire recently sold 1.3 million Hong Kong-listed BYD shares for HK$310.5 million ($39.8 million)\r\nWarren Buffett's Berkshire Hathaway has trimmed its stake in China's BYD , which surpassed Tesla … [+1793 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "jsor@businessinsider.com (Jennifer Sor)",
+    "title": "Tesla is the biggest stock bubble in history and shares are headed to $15, short seller says",
+    "description": "\"In my view, Tesla is the biggest stock market bubble in world history,\" according to one investor who's been shorting the stock since 2020.",
+    "url": "https://markets.businessinsider.com/news/stocks/tesla-stock-price-prediction-crash-earnings-deliveries-outlook-bubble-tsla-2024-6",
+    "urlToImage": "https://i.insider.com/66671450e07904901817611d?width=1200&format=jpeg",
+    "publishedAt": "2024-06-17T15:11:22Z",
+    "content": "Tesla stock is wildly overpriced and could soon face an extreme correction, according to short-seller Per Lekander.\r\n\"In my view, Tesla is the biggest stock market bubble in world history,\" The Clean… [+1546 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Jalopnik"
+    },
+    "author": "Owen Bellwood",
+    "title": "Tesla Crashes Into Police Cruiser Already Responding To Fatal Car Crash While In Full Self Driving Mode",
+    "description": "A Tesla in full self-driving mode slammed into a California Highway Patrol cruiser that was already responding to a fatal crash last week. The electric car was running Tesla’s advanced driver assist feature Full Self-Driving when it smashed into the cop car, …",
+    "url": "https://jalopnik.com/tesla-using-full-self-drive-beta-hits-police-cruiser-al-1851543891",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/626820175f4a133cc1308d243e473115.png",
+    "publishedAt": "2024-06-17T15:05:00Z",
+    "content": "A Tesla in full self-driving mode slammed into a California Highway Patrol cruiser that was already responding to a fatal crash last week. The electric car was running Teslas advanced driver assist f… [+2202 chars]"
+    }
+]
+}
